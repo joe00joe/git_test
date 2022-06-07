@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 hEllo joe
 <<<<<<< HEAD
+=======
+Hello joe
+>>>>>>> dev
 hello DEV
 =======
 hello DEV
