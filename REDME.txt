@@ -1,6 +1,6 @@
 hello joe
 <<<<<<< HEAD
-hello DEv
+hello DEV
 =======
 hello DEV
 >>>>>>> dev
